@@ -1,1 +1,2 @@
 # SztucznaInteligencjaGrupa3
+Krzysztof Magnuszewski 169457
