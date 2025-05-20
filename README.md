@@ -4,6 +4,6 @@ Krzysztof Magnuszewski 169457
 
 Sebastian Tylicki 169514
 
-Kamil Chorzelewski 173080
+Kamil Chorzelewski 173080 * Kapitan grupy :)
 
 i inni :)
